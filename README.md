@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there
+
+## I am Sowjanya from India, currently living in Melbourne.
+
+## I am currently learning on how to use github :P
+
+## Ok bye.!!
 
 <!--
 **sowjanyamatam/sowjanyamatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
