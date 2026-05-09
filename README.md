@@ -2,8 +2,6 @@
 
 ## I am Sowjanya from India, currently living in Melbourne.
 
-## I am currently learning on how to use github :P
-
 ## Ok bye.!!
 
 <!--
